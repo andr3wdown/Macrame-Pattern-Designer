@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e9fc0113094745468138bb29b7eeeda, type: 3}
   m_Name: Start
   m_EditorClassIdentifier: 
-  name: 
+  name: Start
   inputCount: 0
-  outputCount: 0
+  outputCount: 4
